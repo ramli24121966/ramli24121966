@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ramli24121966
 - 👀 I’m interested in Odoo,Python,Oracle EBS, PlSQL
-- 🌱 I’m currently learning Odoo,Pyton
+- 🌱 I’m currently learning Odoo,Python
 - 💞️ I’m looking to collaborate on Odoo,Oracle EBS
 - 📫 My Email : ramli2412@gmail.com (+62818661024)
 
